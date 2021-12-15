@@ -1,0 +1,6 @@
+from SoccerPlayer import Player
+
+Player1 = Player("Messi", 32, "Barcelona", False)
+Player2 = Player("Ronaldo", 35, "Madrid", False)
+
+print(Player2)
